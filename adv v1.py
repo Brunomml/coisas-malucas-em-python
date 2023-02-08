@@ -7,7 +7,7 @@ if pp == 4:
     n = 3
     jj = True
     
-lista = ["assascino","detetive","vitima","vitima","vitima"]
+lista = ["assassino","detetive","vitima","vitima","vitima"]
 
 while True:
     if pp > 5:
