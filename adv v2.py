@@ -3,7 +3,7 @@ n = 4
 
 lp = ["bruno","bruna","miguel","hugo","sarah"]
 
-lista = ["assascino","detetive","vitima","vitima","vitima"]
+lista = ["assassino","detetive","vitima","vitima","vitima"]
 
 while True:
     escolha = random.randint(0, n)
